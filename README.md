@@ -12,7 +12,7 @@ didn't load their album then someone else may have and the photos may be recover
 Open a terminal, paste in the following command and hit enter:
 
 ```
-curl https://raw.githubusercontent.com/polllaris/ourworld-album-grabber-bash/albumgrab.sh | bash
+curl https://raw.githubusercontent.com/polllaris/ourworld-album-grabber-bash/main/albumgrab.sh | bash
 ```
 
 The script will search for your games netcache directory and if it's not found then it will exit, otherwise...
